@@ -46,4 +46,4 @@ Acesse o endereço que aparecer no terminal (geralmente http://localhost:5173).
 
 [ ] Adicionar responsividade para dispositivos móveis.
 
-Feito por [Matheus Vasconcelos] 👋
+Feito por [Luiz Wanklesio] 👋
