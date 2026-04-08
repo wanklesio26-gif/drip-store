@@ -39,11 +39,4 @@ npm run dev
 Acesse no navegador:
 Acesse o endereço que aparecer no terminal (geralmente http://localhost:5173).
 
-🎨 Próximos Passos
-[ ] Finalizar a página de detalhes do produto.
-
-[ ] Implementar o carrinho de compras.
-
-[ ] Adicionar responsividade para dispositivos móveis.
-
 Feito por [Luiz Wanklesio] 👋
